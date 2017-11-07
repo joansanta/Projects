@@ -1,0 +1,14 @@
+C:\Users\joan.santaeugenia\Documents\Visual Studio 2015\Projects\TDDPractica\TDDPractica\obj\Debug\TDDPractica.Tests.csprojResolveAssemblyReference.cache
+C:\Users\joan.santaeugenia\Documents\Visual Studio 2015\Projects\TDDPractica\TDDPractica\bin\Debug\TDDPractica.dll
+C:\Users\joan.santaeugenia\Documents\Visual Studio 2015\Projects\TDDPractica\TDDPractica\bin\Debug\TDDPractica.pdb
+C:\Users\joan.santaeugenia\Documents\Visual Studio 2015\Projects\TDDPractica\TDDPractica\bin\Debug\TddProject.dll
+C:\Users\joan.santaeugenia\Documents\Visual Studio 2015\Projects\TDDPractica\TDDPractica\bin\Debug\TddProject.pdb
+C:\Users\joan.santaeugenia\Documents\Visual Studio 2015\Projects\TDDPractica\TDDPractica\obj\Debug\TDDPractica.dll
+C:\Users\joan.santaeugenia\Documents\Visual Studio 2015\Projects\TDDPractica\TDDPractica\obj\Debug\TDDPractica.pdb
+C:\Projects\TDDPractica\TDDPractica\bin\Debug\TDDPractica.dll
+C:\Projects\TDDPractica\TDDPractica\bin\Debug\TDDPractica.pdb
+C:\Projects\TDDPractica\TDDPractica\bin\Debug\TddProject.dll
+C:\Projects\TDDPractica\TDDPractica\bin\Debug\TddProject.pdb
+C:\Projects\TDDPractica\TDDPractica\obj\Debug\TDDPractica.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\TDDPractica\TDDPractica\obj\Debug\TDDPractica.dll
+C:\Projects\TDDPractica\TDDPractica\obj\Debug\TDDPractica.pdb
