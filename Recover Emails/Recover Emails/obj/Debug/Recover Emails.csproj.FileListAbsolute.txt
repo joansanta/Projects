@@ -1,0 +1,9 @@
+c:\users\joan.santaeugenia\documents\visual studio 2015\Projects\Recover Emails\Recover Emails\bin\Debug\Recover Emails.exe.config
+c:\users\joan.santaeugenia\documents\visual studio 2015\Projects\Recover Emails\Recover Emails\bin\Debug\Recover Emails.exe
+c:\users\joan.santaeugenia\documents\visual studio 2015\Projects\Recover Emails\Recover Emails\bin\Debug\Recover Emails.pdb
+c:\users\joan.santaeugenia\documents\visual studio 2015\Projects\Recover Emails\Recover Emails\obj\Debug\Recover Emails.csprojResolveAssemblyReference.cache
+c:\users\joan.santaeugenia\documents\visual studio 2015\Projects\Recover Emails\Recover Emails\obj\Debug\Recover Emails.exe
+c:\users\joan.santaeugenia\documents\visual studio 2015\Projects\Recover Emails\Recover Emails\obj\Debug\Recover Emails.pdb
+C:\Projects\Recover Emails\Recover Emails\bin\Debug\Recover Emails.exe.config
+C:\Projects\Recover Emails\Recover Emails\obj\Debug\Recover Emails.exe
+C:\Projects\Recover Emails\Recover Emails\obj\Debug\Recover Emails.pdb

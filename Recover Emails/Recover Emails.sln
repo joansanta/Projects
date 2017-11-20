@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recover Emails", "Recover Emails\Recover Emails.csproj", "{25864143-4B9B-4B2D-8385-25E074102207}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Aplicaciones|Any CPU = Debug Aplicaciones|Any CPU
+		Debug Aplicaciones|x64 = Debug Aplicaciones|x64
+		Debug Coches.net|Any CPU = Debug Coches.net|Any CPU
+		Debug Coches.net|x64 = Debug Coches.net|x64
+		Debug Coches4x4.net|Any CPU = Debug Coches4x4.net|Any CPU
+		Debug Coches4x4.net|x64 = Debug Coches4x4.net|x64
+		Debug Infonavis|Any CPU = Debug Infonavis|Any CPU
+		Debug Infonavis|x64 = Debug Infonavis|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release Aplicaciones|Any CPU = Release Aplicaciones|Any CPU
+		Release Aplicaciones|x64 = Release Aplicaciones|x64
+		Release Coches.net|Any CPU = Release Coches.net|Any CPU
+		Release Coches.net|x64 = Release Coches.net|x64
+		Release Infonavis|Any CPU = Release Infonavis|Any CPU
+		Release Infonavis|x64 = Release Infonavis|x64
+		Release Services|Any CPU = Release Services|Any CPU
+		Release Services|x64 = Release Services|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Aplicaciones|Any CPU.ActiveCfg = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Aplicaciones|Any CPU.Build.0 = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Aplicaciones|x64.ActiveCfg = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Aplicaciones|x64.Build.0 = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Coches.net|Any CPU.ActiveCfg = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Coches.net|Any CPU.Build.0 = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Coches.net|x64.ActiveCfg = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Coches.net|x64.Build.0 = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Coches4x4.net|Any CPU.ActiveCfg = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Coches4x4.net|Any CPU.Build.0 = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Coches4x4.net|x64.ActiveCfg = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Coches4x4.net|x64.Build.0 = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Infonavis|Any CPU.ActiveCfg = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Infonavis|Any CPU.Build.0 = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Infonavis|x64.ActiveCfg = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug Infonavis|x64.Build.0 = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Debug|x64.Build.0 = Debug|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Aplicaciones|Any CPU.ActiveCfg = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Aplicaciones|Any CPU.Build.0 = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Aplicaciones|x64.ActiveCfg = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Aplicaciones|x64.Build.0 = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Coches.net|Any CPU.ActiveCfg = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Coches.net|Any CPU.Build.0 = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Coches.net|x64.ActiveCfg = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Coches.net|x64.Build.0 = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Infonavis|Any CPU.ActiveCfg = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Infonavis|Any CPU.Build.0 = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Infonavis|x64.ActiveCfg = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Infonavis|x64.Build.0 = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Services|Any CPU.ActiveCfg = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Services|Any CPU.Build.0 = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Services|x64.ActiveCfg = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release Services|x64.Build.0 = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release|x64.ActiveCfg = Release|Any CPU
+		{25864143-4B9B-4B2D-8385-25E074102207}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
